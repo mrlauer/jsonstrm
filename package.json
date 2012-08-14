@@ -1,0 +1,8 @@
+{
+  "name" : "jsonstrm"
+, "version" : "0.0.1"
+, "description" : "Chunk streams into JSON objects"
+, "main" : "jsonstrm.js"
+, "engines" : { "node" : ">=0.8.6" } 
+, "private" : true
+}
